@@ -24,7 +24,7 @@ https://drive.google.com/file/d/1m6l1CQ6qk4YkV_2HdRZ8k-0ci9CVSuOQ/view?usp=shari
 
 ## Datasets download
 1. Download both YCB-Original and YCBV-BOP from NAS
-2. Put it into the model you want to test
+2. Put it into the folder you want to test
  
 
 ## Datasets Configuration

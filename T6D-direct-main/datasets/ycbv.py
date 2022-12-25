@@ -175,8 +175,8 @@ def build(image_set, args):
     #     "test": ( "./YCB_Video_Dataset", '/home/ai2lab/Desktop/台達計畫/T6D_implement/T6D-direct/YCB_Video_Dataset/test.json'),
     # }
     PATHS = {
-        "train": ( "./ycbv", './ycbv/annotations/train.json'),
-        "test": ( "./ycbv", './ycbv/annotations/test.json'),
+        "train": ( "./ycbv_BOP", './ycbv_BOP/annotations/train.json'),
+        "test": ( "./ycbv_BOP", './ycbv_BOP/annotations/test.json'),
     }
 
     img_folder, ann_file = PATHS[image_set]
