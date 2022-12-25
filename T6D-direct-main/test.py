@@ -80,7 +80,7 @@ def get_images(in_path):
     #         ext = str.lower(ext)
     #         if ext == '.jpg' or ext == '.jpeg' or ext == '.gif' or ext == '.png' or ext == '.pgm':
     #             img_files.append(os.path.join(dirpath, file))
-    img_files = ['/home/ai2lab/Desktop/台達計畫/T6D_implement/T6D-direct/000001-color.png']
+    img_files = ['./000001-color.png']
     # img_files = ['/home/ai2lab/Desktop/台達計畫/T6D_implement/T6D-direct/320234443_1376516659786873_1808387338941556076_n.jpg']
 
     return img_files
